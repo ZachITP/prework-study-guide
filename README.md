@@ -3,7 +3,7 @@
 ## Description
 
 
-My motivation for building this poroject was to help others learn to Code. throughout this course I plan on using this project as a recource to come back to when I get stuck. This project helps with understanding what each application does and what purpose it serves in the coding and web development world. Although this website is simple, its goal is to simplify something that can be very complex to help entry level coders understand the framework of each application. HTML, CSS, and JavaScript.
+My motivation for building this poroject was to help others learn HTML, CSS, and JavaScript. This study guide consiats of 4 sections decribing what I believe to be some of the most important points. It helps with understanding what each application does and what purpose it serves in the coding and web development world. Although this website is simple, its goal is to simplify something that can be very complex and help entry level coders understand the framework of each application. HTML, CSS, and JavaScript.
 
 
 
